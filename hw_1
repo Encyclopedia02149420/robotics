@@ -1,10 +1,7 @@
-// include ros library
 #include "ros/ros.h"
 
-// include msg library
 #include <geometry_msgs/Twist.h>
-
-// include cpp library 
+ 
 #include <cstdio>
 #include <unistd.h>
 #include <termios.h>
